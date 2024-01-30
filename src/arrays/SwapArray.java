@@ -22,9 +22,11 @@ public class SwapArray {
     }
 
     public  static  void Swap3(int[] one, int[] two){
+        System.out.println(one + " ," + two);
         int[] temp= one;
         one=two;
         two=temp;
+        System.out.println(one + " ," + two);
     }
 
 
