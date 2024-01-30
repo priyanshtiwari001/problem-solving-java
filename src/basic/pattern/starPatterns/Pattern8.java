@@ -3,7 +3,11 @@ package basic.pattern.starPatterns;
 import java.util.Scanner;
 /*
 
-
+ x           x
+    x     x
+       x
+    x     x
+ x           x
 
  */
 public class Pattern8 {
