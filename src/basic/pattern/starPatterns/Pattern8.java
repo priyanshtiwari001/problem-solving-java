@@ -22,9 +22,9 @@ public class Pattern8 {
             for(int row=1;row<=n;row++) {
                // System.out.printf("row %s",row);
                 if (i == start || i == end) {
-                    System.out.print(" x ");
+                    System.out.print("x ");
                 } else {
-                    System.out.print("   ");
+                    System.out.print("  ");
                 }
                 if(row<3){
                     start++;
